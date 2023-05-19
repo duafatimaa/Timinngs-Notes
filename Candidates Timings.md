@@ -46,6 +46,8 @@ From 04:00 PM PKT to 01:00 AM PKT
 ## Sabeeha Imtiaz
 From 00:00 PM PKT to 00:00 AM PKT
 ## Sehar jamil
+From 00:00 PM PKT to 00:00 AM PKT
+
 
 # About their Trainins:
 
