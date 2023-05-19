@@ -40,7 +40,7 @@ From 05:00 PM PKT to 09:00 AM PKT OR From 04:00 PM PKT to 08: PM PKT
 ## Wajeeha Zahra: 
 From 08:00 PM PKT to 12:00 AM PKT
 ## Zarafsha Akhtar: 
-From 00:00 PM PKT to 00:00 AM PKT
+From 04:00 PM PKT to 01:00 AM PKT
 
 # About their Trainins:
 
