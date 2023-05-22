@@ -19,8 +19,6 @@ From 10:00 AM PKT to 07:00 PM PKT
 From 00:00 PM PKT to 00:00 AM PKT
 ## Ibra Shakeel: 
 From 05:00 AM PKT to 07:00 AM PKT OR From 04:00 PM to 06:00 PM PKT
-## Jawad Khan: 
-From 00:00 PM PKT to 00:00 AM PKT
 ## Moiz Khan Abbasi: 
 From 00:00 PM PKT to 00:00 AM PKT
 ## Natasha Karim: 
