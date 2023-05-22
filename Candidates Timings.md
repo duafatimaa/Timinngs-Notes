@@ -20,7 +20,7 @@ From 00:00 PM PKT to 00:00 AM PKT
 ## Ibra Shakeel: 
 From 05:00 AM PKT to 07:00 AM PKT OR From 04:00 PM to 06:00 PM PKT
 ## Moiz Khan Abbasi: 
-From 00:00 PM PKT to 00:00 AM PKT
+From 07:30 PM PKT to 11:30 PM PKT
 ## Natasha Karim: 
 From 3:00 PM PKT to 12:00 AM PKT
 ## Noor Fatima: 
@@ -38,8 +38,6 @@ From 05:00 PM PKT to 09:00 AM PKT OR From 04:00 PM PKT to 08: PM PKT
 ## Wajeeha Zahra: 
 From 08:00 PM PKT to 12:00 AM PKT
 ## Zarafsha Akhtar: 
-From 04:00 PM PKT to 01:00 AM PKT
-## Areeba Arshid
 From 04:00 PM PKT to 01:00 AM PKT
 ## Sabeeha Imtiaz
 From 00:00 PM PKT to 00:00 AM PKT
