@@ -2,7 +2,7 @@
 The followings are the names of Candidates who just join the Company.
 
 ## Ajia Shah:  
-From 00:00 PM PKT to 00:00 AM PKT
+From 07:00 PM PKT to 11:00 PM PKT
 ## Areeba Arshad: 
 From 00:00 PM PKT to 00:00 AM PKT
 ## Areeba Mansoor: 
