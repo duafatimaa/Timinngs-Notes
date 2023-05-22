@@ -46,49 +46,8 @@ From 04:00 PM PKT to 01:00 AM PKT
 ## Sabeeha Imtiaz
 From 00:00 PM PKT to 00:00 AM PKT
 ## Sehar jamil
-From 00:00 PM PKT to 00:00 AM PKT
-
+From 03:00 PM PKT to 12:00 AM PKT
 ## Jawad
 From 02:00 PM PKT to 11:00 PM PKT
-
-# About their Trainins:
-
-## Ajia Shah:
-
-## Areeba Arshad:
-
-## Areeba Mansoor:
-
-## Asfandia Rani:
-
-## Ayesha Malik:
-
-## Fareeha Jameel:
-
-### Huma Masood:
-
-## Humera Akram:
-
-## Ibra Shakeel:
-
-## Jawad Khan:
-
-## Moiz Khan Abbasi:
-
-## Natasha Karim:
-
-## Noor Fatima:
-
-## Shumaila:
-
-## Sana Mansoor:
-
-## Sania Kabir:
-
-## Syed Sohaib Shah:
-
-## Tuba Shamoon:
-
-## Wajeeha Zahra:
-
-## Zarafsha Akhtar:
+## Mudassir Ahmed
+Monday from 1:00 PKT to 8:00PKT Or Rest days 12:00PKT to 7:00 PKT
