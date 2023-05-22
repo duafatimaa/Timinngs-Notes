@@ -32,7 +32,7 @@ From 05:00 PM PKT to 02:00 AM PKT
 ## Sana Mansoor: 
 From 00:00 PM PKT to 00:00 AM PKT
 ## Sania Kabir:
-From 00:00 PM PKT to 00:00 AM PKT
+From 10AM to 2PM and then From 6PM to 10PM PKT
 ## Syed Sohaib Shah:
 From 07:30 PM PKT to 11:30 PM PKT
 ## Tuba Shamoon: 
