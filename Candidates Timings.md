@@ -14,7 +14,7 @@ From 04:00 PM PKT to 12:00 AM PKT
 ## Fareeha Jameel:
 From 00:00 PM PKT to 00:00 AM PKT
 ### Huma Masood: 
-From 11:00 AM PKT to 08:00 PM PKT
+From 10:00 AM PKT to 07:00 PM PKT
 ## Humera Akram: 
 From 00:00 PM PKT to 00:00 AM PKT
 ## Ibra Shakeel: 
