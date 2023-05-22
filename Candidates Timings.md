@@ -48,6 +48,8 @@ From 00:00 PM PKT to 00:00 AM PKT
 ## Sehar jamil
 From 00:00 PM PKT to 00:00 AM PKT
 
+## Jawad
+From 02:00 PM PKT to 11:00 PM PKT
 
 # About their Trainins:
 
