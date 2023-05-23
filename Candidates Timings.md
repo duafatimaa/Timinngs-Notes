@@ -3,8 +3,6 @@ The followings are the names of Candidates who just join the Company.
 
 ## Ajia Shah:  
 From 07:00 PM PKT to 11:00 PM PKT
-## Areeba Arshad: 
-From 04:00 PM PKT to 01:00 AM PKT
 ## Asfandia Rani: 
 From 07:00 PM PKT to 04:00 AM PKT
 ## Ayesha Malik: 
