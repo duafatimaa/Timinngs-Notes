@@ -5,10 +5,8 @@ The followings are the names of Candidates who just join the Company.
 From 07:00 PM PKT to 11:00 PM PKT
 ## Areeba Arshad: 
 From 04:00 PM PKT to 01:00 AM PKT
-## Areeba Mansoor: 
-From 00:00 PM PKT to 00:00 AM PKT
 ## Asfandia Rani: 
-From 00:00 PM PKT to 00:00 AM PKT
+From 07:00 PM PKT to 04:00 AM PKT
 ## Ayesha Malik: 
 From 04:00 PM PKT to 12:00 AM PKT
 ## Fareeha Jameel:
@@ -27,8 +25,6 @@ From 3:00 PM PKT to 12:00 AM PKT
 From 05:00 AM PKT to 09:00 AM PKT OR From 04:00 PM to 08:00 PM PKT
 ## Shumaila: 
 From 05:00 PM PKT to 02:00 AM PKT
-## Sana Mansoor: 
-From 00:00 PM PKT to 00:00 AM PKT
 ## Sania Kabir:
 From 10AM to 2PM and then From 6PM to 10PM PKT
 ## Syed Sohaib Shah:
