@@ -6,7 +6,7 @@ From 07:00 PM PKT to 11:00 PM PKT
 ## Asfandia Rani: 
 From 07:00 PM PKT to 04:00 AM PKT
 ## Ayesha Malik: 
-From 04:00 PM PKT to 12:00 AM PKT
+From 05:00 PM PKT to 01:00 AM PKT
 ## Fareeha Jameel:
 From 00:00 PM PKT to 00:00 AM PKT
 ### Huma Masood: 
