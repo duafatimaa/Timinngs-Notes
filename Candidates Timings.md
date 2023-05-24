@@ -41,3 +41,4 @@ From 03:00 PM PKT to 12:00 AM PKT
 From 02:00 PM PKT to 11:00 PM PKT
 ## Mudassir Ahmed
 Monday from 1:00 PKT to 8:00PKT Or Rest days 12:00PKT to 7:00 PKT
+## Wafa Batool
