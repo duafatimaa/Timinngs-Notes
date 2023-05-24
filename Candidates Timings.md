@@ -26,7 +26,7 @@ From 05:00 PM PKT to 02:00 AM PKT
 ## Sania Kabir:
 From 10AM to 2PM and then From 6PM to 10PM PKT
 ## Syed Sohaib Shah:
-From 07:30 PM PKT to 11:30 PM PKT
+From 07:00 PM PKT to 11:00 PM PKT
 ## Tuba Shamoon: 
 From 05:00 PM PKT to 09:00 AM PKT OR From 04:00 PM PKT to 08: PM PKT
 ## Wajeeha Zahra: 
