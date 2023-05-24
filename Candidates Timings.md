@@ -43,3 +43,5 @@ From 02:00 PM PKT to 11:00 PM PKT
 Monday from 1:00 PKT to 8:00PKT Or Rest days 12:00PKT to 7:00 PKT
 ## Wafa Batool
 From 00:00 PM PKT to 00:00 AM PKT
+## Mahira Jadoon 
+From 00:00 PM PKT to 00:00 AM PKT
