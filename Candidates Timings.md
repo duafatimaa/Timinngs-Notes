@@ -45,3 +45,9 @@ Monday from 1:00 PKT to 8:00PKT Or Rest days 12:00PKT to 7:00 PKT
 From 00:00 PM PKT to 00:00 AM PKT
 ## Mahira Jadoon 
 From 00:00 PM PKT to 00:00 AM PKT
+## Mahira Jadoon 
+From 00:00 PM PKT to 00:00 AM PKT
+## Rimsha Ali 
+From 00:00 PM PKT to 00:00 AM PKT
+## Ayesha Rehmat 
+From 00:00 PM PKT to 00:00 AM PKT
